@@ -1,7 +1,4 @@
 # Ignore environment files
-.env.local
-.env.production
-.env.development
 
 node_modules/
 
@@ -21,4 +18,4 @@ pnpm-lock.yaml
 # Ignore Editor/OS files
 .DS_Store
 .idea/
-.vscode/
+config.bat
