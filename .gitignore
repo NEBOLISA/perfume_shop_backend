@@ -1,0 +1,24 @@
+# Ignore environment files
+.env.local
+.env.production
+.env.development
+
+node_modules/
+
+# Ignore build files (React, Vite, or Next.js)
+dist/
+build/
+.next/
+
+# Ignore log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore dependency lockfiles (only if using one package manager)
+pnpm-lock.yaml
+
+# Ignore Editor/OS files
+.DS_Store
+.idea/
+.vscode/
